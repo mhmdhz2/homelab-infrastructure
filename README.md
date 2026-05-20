@@ -66,25 +66,25 @@ The goal of this lab was to simulate a real enterprise environment and practice 
 # Screenshots
 
 ## Active Directory Server
-![AD Server](01-dc01-server-manager.png.png)
+![AD Server](screenshots/01-dc01-server-manager.png.png)
 
 ## Active Directory Users and Computers
-![AD Users](02-active-directory-users.png.png)
+![AD Users](screenshots/02-active-directory-users.png.png)
 
 ## DNS Resolution Test
-![DNS Test](03-dns-nslookup.png.png)
+![DNS Test](screenshots/03-dns-nslookup.png.png)
 
 ## Domain-Joined Windows Client
-![Client Domain](04-client-domain-joined.png.png)
+![Client Domain](screenshots/04-client-domain-joined.png.png)
 
 ## Domain Login
-![Domain Login](05-domain-login.png.png)
+![Domain Login](screenshots/05-domain-login.png.png)
 
 ## Ubuntu SSH Server
-![Ubuntu SSH](06-ubuntu-ssh-ip.png)
+![Ubuntu SSH](screenshots/06-ubuntu-ssh-ip.png)
 
 ## Ubuntu to Domain Controller Ping Test
-![Ping Test](07-ubuntu-ping-dc01.png)
+![Ping Test](screenshots/07-ubuntu-ping-dc01.png)
 
 ## Kali Linux Network Discovery Scan
 ![Nmap Scan](screenshots/08-kali-network-scan.png)
