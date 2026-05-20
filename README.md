@@ -130,7 +130,7 @@ This project provided hands-on experience with:
 
 ---
 
-# Future Improvements
+# Roadmap / Next Planned Expansions
 
 Planned future additions:
 - Group Policy configuration
