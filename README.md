@@ -126,7 +126,7 @@ This project provided hands-on experience with:
 - Linux and Windows interoperability
 - network troubleshooting
 - infrastructure documentation
-- cybersecurity-oriented networking tools
+
 
 ---
 
